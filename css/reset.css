@@ -116,6 +116,7 @@ button::-moz-focus-inner,
 [type="submit"]::-moz-focus-inner {
   border-style: none;
   padding: 0;
+  background-color: green;
 }
 
 /**
