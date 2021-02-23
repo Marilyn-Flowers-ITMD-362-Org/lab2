@@ -18,3 +18,26 @@ input {
 .fontsize {
   font-size: 1.3em;
 }
+
+@media screen and (min-width: 510px) {
+  #container {
+    text-align: center;
+    margin: 3% auto 0 auto;
+    width: 65%;
+  }
+  
+  .fontsize {
+    font-size: 1.2em;
+  }
+  
+  input {
+    width:100%;
+  }
+  
+  #submit {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+    font-size: 0.9em;
+  }
+}
