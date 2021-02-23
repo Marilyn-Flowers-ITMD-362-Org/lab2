@@ -33,7 +33,7 @@ html {
 }
 body {
   line-height: inherit;
-	color: pink;
+	background-color: pink;
 }
 ol, ul {
 	list-style: none;
