@@ -39,7 +39,6 @@ input {
     display: block;
     margin: 0 auto;
     font-size: 0.9em;
-    background-color: pink;
   }
 }
 
@@ -56,7 +55,6 @@ input {
   
   #submit {
     width: 26%;
-    background-color: green;
   }
     
 }
