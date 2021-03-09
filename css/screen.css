@@ -39,6 +39,7 @@ input {
   {
     text-align: center;
   }
+  
   #submit {
     width: 30%;
     display: block;
@@ -49,8 +50,6 @@ input {
 
 @media screen and (min-width: 768px) {
   #container{
-    width: 450px;
-    float: right;
     margin-right: 3%;
   }
   
