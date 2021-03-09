@@ -35,6 +35,10 @@ input {
     align-self: center;
   }
   
+   fieldset
+  {
+    text-align: center;
+  }
   #submit {
     width: 30%;
     display: block;
