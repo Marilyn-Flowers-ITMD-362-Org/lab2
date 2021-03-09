@@ -40,7 +40,7 @@ input {
     text-align: center;
   }
   
-  #submit {
+  .submit {
     width: 30%;
     display: block;
     margin: 0 auto;
@@ -57,7 +57,7 @@ input {
     font-size: 1em;
   }
   
-  #submit {
+  .submit {
     width: 26%;
   }
     
